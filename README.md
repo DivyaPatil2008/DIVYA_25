@@ -1,6 +1,6 @@
-<h2>Hi, I'm Rashid Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
+<h2>Hi, I'm Divya Patil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 
-<img src="https://raw.githubusercontent.com/Rashidkhan25/Rashidkhan25/refs/heads/main/header.jpeg" alt="Profile Banner" width="100%">
+<img src="https://raw.githubusercontent.com/DIVYA25/Rashidkhan25/refs/heads/main/header.jpeg" alt="Profile Banner" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=30&width=600&lines=🚀+MERN-Stack+Developer;💻+Coding+Enthusiast;🎉+Welcome+to+my+GitHub+Page)
 
